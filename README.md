@@ -9,4 +9,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=glg-satish-tripathi&theme=dark)](https://git.io/streak-stats)
 
-My Other GitHub profile: https://github.com/satish4584
+My Other GitHub profile: [mindriftfall](https://github.com/mindriftfall)
